@@ -1,4 +1,17 @@
 body{
+    
+    h1{
+        font-family: "Times New Roman", serif;
+        color: limegreen;
+        font-size: 28px;
+    }
+
+    h2{
+        font-family: "Times New Roman", serif;
+        color: limegreen;
+        font-size: 22px;
+    }
+    
     margin: 0px 10% 2%; 
     
     p{

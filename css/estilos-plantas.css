@@ -1,17 +1,4 @@
 body{
-    
-    h1{
-        font-family: "Times New Roman", serif;
-        color: limegreen;
-        font-size: 28px;
-    }
-
-    h2{
-        font-family: "Times New Roman", serif;
-        color: limegreen;
-        font-size: 22px;
-    }
-
     #voce_sabia{
         border: 3px solid limegreen;
         padding: 10px;
@@ -19,7 +6,6 @@ body{
         
     }
     
-
     #img_armadilhas_jaula{
         border: 8px solid limegreen;
         margin: auto;
