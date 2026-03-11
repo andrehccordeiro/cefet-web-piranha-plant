@@ -1,9 +1,40 @@
 body{
+    
     h1{
+        font-family: "Times New Roman", serif;
         color: limegreen;
+        font-size: 28px;
     }
 
-    p{
-        text-align: justify;
+    h2{
+        font-family: "Times New Roman", serif;
+        color: limegreen;
+        font-size: 22px;
+    }
+
+    #voce_sabia{
+        border: 3px solid limegreen;
+        padding: 10px;
+        background-image: url(imagens\fundo.png);
+        background-size: cover;
+        background-repeat: repeat;
+    }
+    
+
+    #img_armadilhas_jaula{
+        border: 8px solid limegreen;
+        margin: auto;
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #img_armadilha_succao{
+        border: 8px solid limegreen;
+        margin: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 }

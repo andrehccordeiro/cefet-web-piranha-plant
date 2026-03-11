@@ -1,3 +1,15 @@
 body{
-    margin: 0px 10%; 
+    margin: 0px 10% 2%; 
+    
+    p{
+        text-align: justify;
+        font-family: "Arial", sans-serif;
+        font-size: 14px;
+    }
+
+    blockquote{
+        text-align: justify;
+        margin: 0px 60px;
+    }
+
 }
